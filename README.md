@@ -1,4 +1,4 @@
-# sales-web-mvc
+# sales-webapp
 Aplicação Web que gerencia vendedores, departamentos e registros de venda.
 
 Desenvolvido com ASP.NET Core e padrão MVC.
